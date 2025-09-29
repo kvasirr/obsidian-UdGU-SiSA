@@ -4,6 +4,7 @@
 # Явно игноируем файлы
 Education/DZ
 Templates
+TODO
 # Игнорирование файлов бэкапов изза плагинов 
 .trash
 .tocken
